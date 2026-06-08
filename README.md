@@ -17,7 +17,7 @@ Currently finishing my B.S. in Computer Engineering and open to full-time softwa
 
 ## Featured Projects
 
-### 🛋️ [Furnish Frenzy](https://github.com/DestinysCodePortfolio/Furnish-Frenzy)
+### 🛋️ [Furnish Frenzy]([https://github.com/DestinysCodePortfolio/Furnish-Frenzy](https://github.com/Pedro-Chaidez/Furnish-Frenzy)
 *Unity · C# · Git*
 
 A furniture shopping game built from scratch. I owned the full feature set: slot-based shopping cart logic, real-time item state management, a custom editor tool for normalizing prefabs across four asset packs, and merge conflict resolution on Unity YAML scene files across branches.
