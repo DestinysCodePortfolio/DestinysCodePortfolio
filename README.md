@@ -2,8 +2,7 @@
 
 Computer Engineering @ UC Riverside · graduating June 2026
 Embedded systems, gameplay engineering, backend tooling
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-destiny--gonzalez-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/destiny-gonzalez)
-[![Email](https://img.shields.io/badge/Email-DestinyGonzalez2904%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:DestinyGonzalez2904@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-destiny--gonzalez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/destiny-gonzalez-a754a1279/)[![Email](https://img.shields.io/badge/Email-DestinyGonzalez2904%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:DestinyGonzalez2904@gmail.com)
 
 ---
 
