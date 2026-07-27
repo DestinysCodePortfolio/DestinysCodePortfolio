@@ -1,18 +1,11 @@
 # Destiny Gonzalez
 
-Computer Engineering @ UC Riverside · graduating June 2026
+
 Embedded systems, gameplay engineering, backend tooling
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-destiny--gonzalez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/destiny-gonzalez-a754a1279/)[![Email](https://img.shields.io/badge/Email-DestinyGonzalez2904%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:DestinyGonzalez2904@gmail.com)
 
 ---
 
-## About
-
-I build things end-to-end — from CAN bus signal mapping on a real vehicle platform to shopping cart systems in Unity to Python CLI tools backed by Google Sheets. My background spans firmware, operating systems, and application-layer software, which means I'm comfortable wherever the stack gets weird.
-
-Currently finishing my B.S. in Computer Engineering and open to full-time software engineering roles starting June 2026.
-
----
 
 ## Featured Projects
 
